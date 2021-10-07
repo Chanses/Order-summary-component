@@ -1,0 +1,19 @@
+.wrapper {
+  width: 1440px;
+  height: 100vh;
+  background-image: url(../images/pattern-background-desktop.svg);
+}
+
+.card-article__title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: #3e52a3;
+}

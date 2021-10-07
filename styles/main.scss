@@ -1,0 +1,61 @@
+.wrapper{
+
+}
+
+.wrapper {
+	width: 1440px;
+	height: 100vh;
+	background-image: url(../images/pattern-background-desktop.svg);
+}
+.card {
+}
+.card-image {
+}
+.card-text {
+}
+.card-article {
+
+		&__title {
+			font-size: 24px;
+			font-weight: bold;
+		}
+
+		&__text {
+		}
+}
+.plan {
+
+		&__info {
+		}
+
+		&__info-img {
+		}
+
+		&__info-text {
+		}
+
+		&__info-price {
+		}
+
+		&__changebutton {
+		}
+}
+.buttons {
+}
+.proceed {
+}
+.cancel {
+}
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
